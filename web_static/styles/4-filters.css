@@ -22,5 +22,5 @@ button{
 
 }
 button:hover{
-    background-color: opacity 90% !important;
+    opacity :90%;
 }
